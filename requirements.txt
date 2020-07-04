@@ -33,7 +33,7 @@ importlib-resources==3.0.0
 invoke==1.4.1
 jeepney==0.4.3
 Jinja2==2.11.2
-keyring==20.0.1
+keyring==21.2.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==8.4.0
@@ -73,7 +73,7 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 sphinxcontrib-websupport==1.2.3
 spotipy==2.13.0
-stevedore==1.32.0
+stevedore==2.0.1
 toml==0.10.1
 tox==3.16.1
 tqdm==4.47.0
