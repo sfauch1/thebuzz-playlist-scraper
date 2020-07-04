@@ -7,7 +7,7 @@ TheBuzz Playlist Scraper
         :target: https://pypi.python.org/pypi/thebuzz_playlist_scraper
 
 .. image:: https://img.shields.io/travis/sfauch1/thebuzz_playlist_scraper.svg
-        :target: https://travis-ci.com/sfauch1/thebuzz_playlist_scraper
+        :target: https://travis-ci.com/github/sfauch1/thebuzz-playlist-scraper
 
 .. image:: https://readthedocs.org/projects/thebuzz-playlist-scraper/badge/?version=latest
         :target: https://thebuzz-playlist-scraper.readthedocs.io/en/latest/?badge=latest
