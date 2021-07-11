@@ -30,7 +30,7 @@ idna==2.10
 imagesize==1.2.0
 importlib-metadata==1.7.0
 importlib-resources==3.0.0
-invoke==1.4.1
+invoke==1.6.0
 jeepney==0.4.3
 Jinja2==2.11.2
 keyring==21.2.1
