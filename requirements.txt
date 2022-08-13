@@ -59,7 +59,7 @@ redis==3.5.3
 requests==2.24.0
 requests-toolbelt==0.9.1
 rfc3986==1.4.0
-SecretStorage==3.1.2
+SecretStorage==3.3.3
 six==1.15.0
 smmap==3.0.4
 smmap2==3.0.1
