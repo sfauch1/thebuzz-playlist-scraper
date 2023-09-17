@@ -61,7 +61,7 @@ requests-toolbelt==0.9.1
 rfc3986==1.4.0
 SecretStorage==3.1.2
 six==1.15.0
-smmap==3.0.4
+smmap==6.0.0
 smmap2==3.0.1
 snowballstemmer==2.0.0
 Sphinx==3.1.2
