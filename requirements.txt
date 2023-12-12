@@ -15,7 +15,7 @@ click==7.1.2
 colorama==0.4.3
 coverage==5.2
 cryptography==2.9.2
-distlib==0.3.1
+distlib==0.3.8
 docutils==0.16
 entrypoints==0.3
 fabric==2.5.0
