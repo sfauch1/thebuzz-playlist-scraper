@@ -65,7 +65,7 @@ smmap==3.0.4
 smmap2==3.0.1
 snowballstemmer==2.0.0
 Sphinx==3.1.2
-sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-applehelp==2.0.0
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
